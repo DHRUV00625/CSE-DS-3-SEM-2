@@ -3,8 +3,10 @@ function calculate()
     let marks = document.getElementById("marks").value;
 
     let resultText = "";
-
-    if(marks >= 400)
+    if(marks > 500){
+    resultText = "INVALID MARKS";
+    }
+    else if(marks >= 400)
     {
         resultText = "PASS - Grade A";
     }
