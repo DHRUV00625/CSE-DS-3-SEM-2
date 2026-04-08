@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    
+}
+
+#result {
+    margin-top: 15px;
+    font-weight: bold;
+}
