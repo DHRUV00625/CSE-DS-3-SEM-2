@@ -16,7 +16,7 @@ function App() {
       <h1>Student Details</h1>
 
       <div className="card-container">
-        <Student name="Animesh" course="BCA" marks={85} />
+        <Student name="Dhruv" course="BCA" marks={85} />
         <Student name="Rahul" course="BTech" marks={78} />
         <Student name="Priya" course="BSc" marks={92} />
       </div>
